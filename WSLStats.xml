@@ -1,0 +1,206 @@
+<standings>
+<team>
+<name>Chelsea</name>
+<record>
+	<wins>18</wins>
+	<draws>1</draws>
+	<losses>3</losses>
+</record>
+<goals_for>71</goals_for>
+<goals_against>18</goals_against>
+<goal_differential>53</goal_differential>
+<points>55</points>
+<points_per_match>2.5</points_per_match>
+<expected_goals>57.9</expected_goals>
+<expected_goals_against>20.1</expected_goals_against>
+<expected_goals_per_90_minutes>1.72</expected_goals_per_90_minutes>
+<expected_goal_differential>37.9</expected_goal_differential>
+</team>
+<team>
+<name>Manchester City</name>
+<record>
+	<wins>18</wins>
+	<draws>1</draws>
+	<losses>3</losses>
+</record>
+<goals_for>61</goals_for>
+<goals_against>15</goals_against>
+<goal_differential>46</goal_differential>
+<points>55</points>
+<points_per_match>2.5</points_per_match>
+<expected_goals>46.8</expected_goals>
+<expected_goals_against>18.7</expected_goals_against>
+<expected_goals_per_90_minutes>1.28</expected_goals_per_90_minutes>
+<expected_goal_differential>28.1</expected_goal_differential>
+</team>
+<team>
+<name>Arsenal</name>
+<record>
+	<wins>16</wins>
+	<draws>2</draws>
+	<losses>4</losses>
+</record>
+<goals_for>53</goals_for>
+<goals_against>20</goals_against>
+<goal_differential>33</goal_differential>
+<points>50</points>
+<points_per_match>2.27</points_per_match>
+<expected_goals>53</expected_goals>
+<expected_goals_against>17.9</expected_goals_against>
+<expected_goals_per_90_minutes>1.6</expected_goals_per_90_minutes>
+<expected_goal_differential>35.1</expected_goal_differential>
+</team>
+<team>
+<name>Liverpool</name>
+<record>
+	<wins>12</wins>
+	<draws>5</draws>
+	<losses>5</losses>
+</record>
+<goals_for>36</goals_for>
+<goals_against>28</goals_against>
+<goal_differential>8</goal_differential>
+<points>41</points>
+<points_per_match>1.86</points_per_match>
+<expected_goals>26</expected_goals>
+<expected_goals_against>27.2</expected_goals_against>
+<expected_goals_per_90_minutes>-0.05</expected_goals_per_90_minutes>
+<expected_goal_differential>-1.1</expected_goal_differential>
+</team>
+<team>
+<name>Manchester Utd</name>
+<record>
+	<wins>10</wins>
+	<draws>5</draws>
+	<losses>7</losses>
+</record>
+<goals_for>42</goals_for>
+<goals_against>32</goals_against>
+<goal_differential>10</goal_differential>
+<points>35</points>
+<points_per_match>1.59</points_per_match>
+<expected_goals>34.8</expected_goals>
+<expected_goals_against>28.3</expected_goals_against>
+<expected_goals_per_90_minutes>0.3</expected_goals_per_90_minutes>
+<expected_goal_differential>6.5</expected_goal_differential>
+</team>
+<team>
+<name>Tottenham</name>
+<record>
+	<wins>8</wins>
+	<draws>7</draws>
+	<losses>7</losses>
+</record>
+<goals_for>31</goals_for>
+<goals_against>36</goals_against>
+<goal_differential>-5</goal_differential>
+<points>31</points>
+<points_per_match>1.41</points_per_match>
+<expected_goals>28.1</expected_goals>
+<expected_goals_against>31.4</expected_goals_against>
+<expected_goals_per_90_minutes>-0.15</expected_goals_per_90_minutes>
+<expected_goal_differential>-3.3</expected_goal_differential>
+</team>
+<team>
+<name>Aston Villa</name>
+<record>
+	<wins>7</wins>
+	<draws>3</draws>
+	<losses>12</losses>
+</record>
+<goals_for>27</goals_for>
+<goals_against>43</goals_against>
+<goal_differential>-16</goal_differential>
+<points>24</points>
+<points_per_match>1.09</points_per_match>
+<expected_goals>24.4</expected_goals>
+<expected_goals_against>38.4</expected_goals_against>
+<expected_goals_per_90_minutes>-0.63</expected_goals_per_90_minutes>
+<expected_goal_differential>-14</expected_goal_differential>
+</team>
+<team>
+<name>Everton</name>
+<record>
+	<wins>6</wins>
+	<draws>5</draws>
+	<losses>11</losses>
+</record>
+<goals_for>24</goals_for>
+<goals_against>37</goals_against>
+<goal_differential>-13</goal_differential>
+<points>23</points>
+<points_per_match>1.05</points_per_match>
+<expected_goals>20.4</expected_goals>
+<expected_goals_against>36.2</expected_goals_against>
+<expected_goals_per_90_minutes>-0.72</expected_goals_per_90_minutes>
+<expected_goal_differential>-15.8</expected_goal_differential>
+</team>
+<team>
+<name>Brighton</name>
+<record>
+	<wins>5</wins>
+	<draws>4</draws>
+	<losses>13</losses>
+</record>
+<goals_for>26</goals_for>
+<goals_against>48</goals_against>
+<goal_differential>-22</goal_differential>
+<points>19</points>
+<points_per_match>0.86</points_per_match>
+<expected_goals>20.6</expected_goals>
+<expected_goals_against>39.9</expected_goals_against>
+<expected_goals_per_90_minutes>-0.88</expected_goals_per_90_minutes>
+<expected_goal_differential>-19.3</expected_goal_differential>
+</team>
+<team>
+<name>Leicester City</name>
+<record>
+	<wins>4</wins>
+	<draws>6</draws>
+	<losses>12</losses>
+</record>
+<goals_for>26</goals_for>
+<goals_against>45</goals_against>
+<goal_differential>-19</goal_differential>
+<points>18</points>
+<points_per_match>0.82</points_per_match>
+<expected_goals>23.9</expected_goals>
+<expected_goals_against>41.1</expected_goals_against>
+<expected_goals_per_90_minutes>-0.78</expected_goals_per_90_minutes>
+<expected_goal_differential>-17.2</expected_goal_differential>
+</team>
+<team>
+<name>West Ham</name>
+<record>
+	<wins>3</wins>
+	<draws>6</draws>
+	<losses>13</losses>
+</record>
+<goals_for>20</goals_for>
+<goals_against>45</goals_against>
+<goal_differential>-25</goal_differential>
+<points>15</points>
+<points_per_match>0.68</points_per_match>
+<expected_goals>22.5</expected_goals>
+<expected_goals_against>30</expected_goals_against>
+<expected_goals_per_90_minutes>-0.34</expected_goals_per_90_minutes>
+<expected_goal_differential>-7.5</expected_goal_differential>
+</team>
+<team>
+<name>Bristol City</name>
+<record>
+	<wins>1</wins>
+	<draws>3</draws>
+	<losses>18</losses>
+</record>
+<goals_for>20</goals_for>
+<goals_against>70</goals_against>
+<goal_differential>-50</goal_differential>
+<points>6</points>
+<points_per_match>0.27</points_per_match>
+<expected_goals>16</expected_goals>
+<expected_goals_against>45.4</expected_goals_against>
+<expected_goals_per_90_minutes>-1.34</expected_goals_per_90_minutes>
+<expected_goal_differential>-29.4</expected_goal_differential>
+</team>
+</standings>
