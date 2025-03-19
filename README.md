@@ -38,6 +38,20 @@ For my graphs, I wanted to chart these results using a scatter plot. The scatter
 
 Overall, I learned that while there are some statistics in this specific scenario that are similar to how the standings ended up, there should be a better way to predict where a team will end up in the table. If I were to continue this project, I would attempt to find an algorithm that could predict where a team would end up in any table very accurately using the statistics that I examined in this project. 
 
+Here are the three graphs I created:
+
+<div style="text-align: center;">
+  <img src="graph1.png" width="500" height="250" />
+</div>
+
+<div style="text-align: center;">
+  <img src="graph2.png" width="500" height="250" />
+</div>
+
+<div style="text-align: center;">
+  <img src="graph3.png" width="500" height="250" />
+</div>
+
 
 
 
