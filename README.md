@@ -41,15 +41,15 @@ Overall, I learned that while there are some statistics in this specific scenari
 Here are the three graphs I created:
 
 <div style="text-align: center;">
-  <img src="graph1.png" width="500" height="250" />
+  <img src="graph1.png" width="500" height="300" />
 </div>
 
 <div style="text-align: center;">
-  <img src="graph2.png" width="500" height="250" />
+  <img src="graph2.png" width="500" height="300" />
 </div>
 
 <div style="text-align: center;">
-  <img src="graph3.png" width="500" height="250" />
+  <img src="graph3.png" width="500" height="300" />
 </div>
 
 
