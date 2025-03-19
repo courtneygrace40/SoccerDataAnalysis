@@ -1,3 +1,5 @@
+<img src="SoccerBanner.png" alt="Banner" style="width:100%; height:auto;">
+
 # Soccer Data Analysis
 
 This is the repository for my project on data analysis of various statistics to predict final standings for soccer leagues. 
