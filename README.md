@@ -11,7 +11,8 @@ I chose data from my favorite soccer league: the Women’s Super League (WSL) in
 The champion of the WSL is determined by the first-place finisher. The second and third-place finishers qualify for the Champions League, and the last-place finisher is relegated to the league below the WSL. Because standings are important in the WSL, I wanted to find out if any of the statistics that are recorded about the WSL could be used to predict where a team would finish at the top of the table. If there are no completely accurate stats, is there another way to predict where teams will end up? 
 
 ### XML File 
-[Python used linked here.](XML.py)
+[Python used linked here.](XMLCreation.py)   
+
 To answer this question, I downloaded the data from FBref.com into a CSV file. Then, I transformed this data into a format that can be easily manipulated. I picked XML formatting because it is a format that I am comfortable working with and a format that works great with Python. Every team is an element in the “standings” element, with each team having the same elements contained in it. These elements included the team names and their statistics from the season. I then validated this XML document to make sure that it was formatted correctly. 
 
 Once I had transformed the data into an XML file I was able to use XPATH to find specific data in the file. I used XPATH to get each team’s corresponding statistics. Then, I created a list of dictionaries where each entry is a dictionary with the team’s name and statistic value. For each statistic, I sorted the list either in ascending or descending order depending on which made sense based on the context for the statistic. For example, I sorted the “goals against” in ascending order, since a team that has fewer goals against had a better performance defensively over the season. On the other hand, I sorted “goals for” in ascending order since it is better to score more goals.  
