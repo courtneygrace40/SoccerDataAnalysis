@@ -27,8 +27,8 @@ After I created every ranking of the teams by stats, I awarded them points based
 To determine how accurate a statistic’s ranking was, I created a function that could see how far off each team was from its actual place in the final rankings. This function found the average amount of places that a team was off from its final spot, which is a number ranging from 0 to -6. With this information, I was able to understand which statistics are the most useful when predicting where each team will end up. The most accurate statistics were goals for, goal differential, and my points system, each with only a -0.5 score for accuracy. The least accurate stats were expected goal vs goals ranked with the lowest difference first, expected goals against vs goals against with the highest difference ranked first, and expected goal differential vs goal differential with the lowest ranked first. These all had a score of -5 or higher. 
 
 ### Data Visualization
-[Graph 1 Python Linked Here.](GoalsForScatterPlot.py)
-[Graph 2 Python Linked Here.](GoalsDifferentialScatterPlot.py)
+[Graph 1 Python Linked Here.](GoalsForScatterPlot.py)   
+[Graph 2 Python Linked Here.](GoalsDifferentialScatterPlot.py)   
 [Graph 3 Python Linked Here.](ExpectedGoalDifferentialScatterPlot.py)
 
 
